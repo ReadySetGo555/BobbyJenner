@@ -16,7 +16,11 @@
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-### Check it out, soon there will be multiple projects and data visualizations with links to my Github code, Tableau portfolio, and Medium blog.
+### Here's what my skills look like in action:
+
+[Github Repository](https://github.com/ReadySetGo555/portfolio)
+[Tableau Portfolio](https://public.tableau.com/app/profile/bobby.jenner/vizzes)
+[Medium Blog](https://medium.com/@bobbyjennerlmt)
 
 <footer>
 
