@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-##Transforming Powerful Data Visualizations into Impactful Data-Driven Decisions. 
+## Transforming Powerful Data Visualizations into Impactful Data-Driven Decisions. 
 
 </header>
 
