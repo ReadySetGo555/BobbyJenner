@@ -19,7 +19,9 @@
 ### Here's what my skills look like in action:
 
 [Github Repository](https://github.com/ReadySetGo555/portfolio)
+<br/>
 [Tableau Portfolio](https://public.tableau.com/app/profile/bobby.jenner/vizzes)
+<br/>
 [Medium Blog](https://medium.com/@bobbyjennerlmt)
 
 <footer>
