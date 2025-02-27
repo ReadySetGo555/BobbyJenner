@@ -9,8 +9,6 @@
 
 # Transforming Powerful Data Visualizations into Impactful Data-Driven Decisions. 
 
-_Get started using GitHub in less than an hour._
-
 </header>
 
 <!--
@@ -18,7 +16,7 @@ _Get started using GitHub in less than an hour._
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Check it out, soon there will be multiple projects and data visualizations with links to my Github code, Tableau portfolio, and Medium blog.
+### Check it out, soon there will be multiple projects and data visualizations with links to my Github code, Tableau portfolio, and Medium blog.
 
 <footer>
 
@@ -28,9 +26,5 @@ _Get started using GitHub in less than an hour._
 -->
 
 ---
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
