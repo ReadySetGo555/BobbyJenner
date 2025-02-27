@@ -1,5 +1,7 @@
 <header>
-  ## Transforming Powerful Data Visualizations into Impactful Data-Driven Decisions.
+  
+<h2>Transforming Powerful Data Visualizations into Impactful Data-Driven Decisions.</h2>
+
 </header>
 
 ### My Skills in Action
